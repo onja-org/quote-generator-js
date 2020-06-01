@@ -12,7 +12,7 @@ For a few french example, you have the [Pipotron](http://www.pipotron.free.fr/) 
 
 It's your turn to create one! You must respect the following instructions:
 
--   Citations are generated randomly one by one each time the JavaScript program is called
+-   Quotes are generated randomly one by one each time the JavaScript program is called
 
 -   Each quotation is the **combination** of at least **3 pieces of sentences** (it's up to you to prepare these pieces of sentence)
 
@@ -24,7 +24,7 @@ The program can simply display the result in the JavaScript console.
 
 You now want to go further and offer the following options:
 
--   Choose the number of citations generated (from 1 to 5)
+-   Choose the number of quotes generated (from 1 to 5)
 
 -   Choose between 2 types of quotation generators (you should therefore have 2 sets of sentences)
 
