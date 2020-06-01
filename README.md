@@ -48,8 +48,6 @@ Adapt the program so that it can offer these features. It's your turn !
 
 -   In your README.md, please give a few examples about what could be improved in your code or functionality.
 
----
-
 ## Resources
 
 You can use whatever resource you need for this project. You can use the internet. Feel free to check the code examples from [Educative](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch/), [Open Classroom](https://openclassrooms.com/fr/courses/5664271-learn-programming-with-javascript) or [FreeCodeCamp](https://www.freecodecamp.org/learn).
@@ -68,4 +66,4 @@ You can use whatever resource you need for this project. You can use the interne
 -   Implement JavaScript syntax in a program
 -   Clean code (indentation, comments, clear variables and functions names)
 
-## Good luck, and happy coding ✨ 
+## Good luck, and happy coding ✨
